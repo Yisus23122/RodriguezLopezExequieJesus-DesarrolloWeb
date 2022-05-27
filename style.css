@@ -1,0 +1,38 @@
+body{
+font-family:Helvetica;
+    width: 80%;
+margin-left: auto;
+margin-right: auto;
+max-width: 800px;
+}
+
+h1{
+font-family:Rockwell;
+  text-align: center;
+font-size: 50px; ;
+color: rgb(90, 86, 86);
+text-shadow: orange 0px 10px 10px;
+border-bottom: orange 5px solid ;
+}
+
+h2{
+color: rgb(117, 111, 111);  
+font-weight: 800;
+}
+
+ul{
+box-shadow: 5px 5px 10px grey;
+border: orange 3px solid;
+padding: 50px;
+padding-right:  30px;
+padding-top: 20px;
+padding-bottom: 20px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+
+}
+
+p{
+text-align:justify ;
+font-family: Consolas;
+}
